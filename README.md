@@ -37,11 +37,15 @@ python test.py
 ------
 
 ```
-@article{xia2018realpoint3d,
-  title={Realpoint3d: Point cloud generation from a single image with complex background},
-  author={Xia, Yan and Zhang, Yang and Zhou, Dingfu and Huang, Xinyu and Wang, Cheng and Yang, Ruigang},
-  journal={arXiv preprint arXiv:1809.02743},
-  year={2018}
+@article{xia2019realpoint3d,
+  title={RealPoint3D: Generating 3D point clouds from a single image of complex scenarios},
+  author={Xia, Yan and Wang, Cheng and Xu, Yusheng and Zang, Yu and Liu, Weiquan and Li, Jonathan and Stilla, Uwe},
+  journal={Remote Sensing},
+  volume={11},
+  number={22},
+  pages={2644},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
 
